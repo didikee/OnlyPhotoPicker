@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmp_exit_warning">退出选择操作吗？</string>
+    <string name="mmp_discard">退出</string>
+    <string name="mmp_cancel">取消</string>
+    <string name="mmp_selected">已选中</string>
+    <string name="mmp_select_all">全部选中</string>
+    <string name="mmp_select_none">全部取消</string>
+    <string name="mmp_select_reverse">反选</string>
+    <string name="mmp_pic_item">张</string>
+</resources>

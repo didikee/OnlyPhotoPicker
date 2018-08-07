@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmp_exit_warning">Discard your selection？</string>
+    <string name="mmp_discard">Discard</string>
+    <string name="mmp_cancel">Cancel</string>
+    <string name="mmp_selected">Selected</string>
+    <string name="mmp_select_all">Select all</string>
+    <string name="mmp_select_none">Select none</string>
+    <string name="mmp_select_reverse">Reverse</string>
+    <string name="mmp_pic_item">items</string>
+</resources>
